@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on project solutions.
 - 📫 talk to me, email: giancrlos34@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Fun fact: I'm an information systems student.
+- ⚡ Fun fact: I'm an information systems student.
 
 <!---
 GianCarlosDev/GianCarlosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

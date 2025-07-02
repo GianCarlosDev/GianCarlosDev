@@ -12,9 +12,6 @@
 - Curiosidade: gosto de transformar lógica em código funcional!
 
 
-
-**🛠️ Tecnologias e Ferramentas**
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">

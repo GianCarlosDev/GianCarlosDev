@@ -33,20 +33,6 @@
 </p>
 
 
-
-**📌 Projetos em Destaque**
-
-- **[DesafioQuartaSemana](https://github.com/GianCarlosDev/DesafioQuartaSemana)
-  Projeto desenvolvido como parte do desafio da quarta semana de estudos em Java. Envolve lógica de programação e boas práticas no uso da linguagem.**
-
-- **[ImcPesoIdeal](https://github.com/GianCarlosDev/ImcPesoIdeal)
-  Projeto em Java que calcula o Índice de Massa Corporal (IMC), ajudando usuários a verificarem se seu peso está adequado à sua altura.**
-
-- **[PrimeiraSemana](https://github.com/GianCarlosDev/PrimeiraSemana)
-  Repositório contendo exercícios e projetos desenvolvidos durante a primeira semana de estudos em Java.**
-
-
-
 **📫 Onde me encontrar**
 
 - Email: **giancrlos34@gmail.com**

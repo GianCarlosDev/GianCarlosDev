@@ -7,9 +7,9 @@
 **🚀 Sobre mim**
 
 - Atualmente estudando: **Python, Java, JavaScript, HTML e CSS**
-- Interesse em: **codar soluções completas**, do front ao back
-- Buscando colaborar em: projetos com propósito e impacto real
-- Curiosidade: gosto de transformar lógica em código funcional!
+- Interesse em: **codar soluções completas**, **do front ao back**
+- Buscando colaborar em: **projetos com propósito e impacto real**
+- Curiosidade: g**osto de transformar lógica em código funcional!**
 
 
 ### 🛠️ Tecnologias e Ferramentas

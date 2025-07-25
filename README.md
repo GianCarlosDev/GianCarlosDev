@@ -1,37 +1,39 @@
-**Olá, eu sou o Gian Carlos! 👋**
+<h1 align="center">Olá! 👋 Eu sou o Gian Carlos</h1>
 
-**Sou estudante de Sistemas de Informação, focado em desenvolvimento front-end e back-end.Apaixonado por resolver problemas com código e aprender novas tecnologias que impactem de verdade o dia a dia das pessoas.**
-
-
-
-**🚀 Sobre mim**
-
-- Atualmente estudando: **Python, Java, JavaScript, HTML e CSS**
-- Interesse em: **codar soluções completas**, **do front ao back**
-- Buscando colaborar em: **projetos com propósito e impacto real**
-- Curiosidade: **gosto de transformar lógica em código funcional!**
-
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<p align="center">
+  💻 Desenvolvedor Back-end | Estudante de Sistemas de Informação  
 </p>
 
+---
 
-**📫 Onde me encontrar**
+### 🚀 Tecnologias que uso:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Email: **giancrlos34@gmail.com**
-- GitHub: **[@GianCarlosDev](https://github.com/GianCarlosDev)**
-- LinkedIn: **[Gian Carlos](https://www.linkedin.com/in/gian-carlos-10715a202)**
+---
 
+### 📈 GitHub Stats
+![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical)
 
+---
 
+### 💡 Projetos em destaque
+- 🔗 [Gerenciador de Hotéis](https://github.com/GianCarlosDev/gerenciador-hoteis) – Spring Boot + Docker + MySQL
+- 📊 [Agregador de Investimentos](https://github.com/GianCarlosDev/agregador-de-investimento) – verifique valores de ações
+
+---
+
+### 📬 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/GianCarlos)
+📧 giancarlos34@gmail.com
+
+---
+
+🧠 *Gosto de transformar lógica em código funcional e construir soluções completas, do back ao front!* 🚀

@@ -16,6 +16,9 @@ jobs:
           svg_out_path: dist/github-snake.svg
           gif_out_path: dist/github-snake.gif
 
+      - name: Criar diretório build
+        run: mkdir -p build
+
       - name: Push snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:

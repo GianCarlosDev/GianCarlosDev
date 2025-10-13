@@ -29,7 +29,7 @@
 ---
 
 ### 📬 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/GianCarlos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gian-carlos-10715a202)
 📧 giancarlos34@gmail.com
 
 ---

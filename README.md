@@ -30,12 +30,10 @@ Tenho como foco evoluir constantemente, dominando tanto o frontend quanto o back
 
 ## 📊 Estatísticas em tempo real
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
+## 📊 Estatísticas em tempo real
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=GianCarlosDev&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">

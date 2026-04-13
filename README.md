@@ -1,68 +1,40 @@
 <h1 align="center">Gian Carlos</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong><br/>
-  Construindo aplicações modernas, escaláveis e com propósito
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=80&section=header"/>
+  Construindo aplicações reais, escaláveis e com foco em experiência do usuário
 </p>
-
-<br/>
-
-## 🌊 Sobre mim
-
-Desenvolvedor full stack focado em transformar ideias em sistemas funcionais e bem estruturados.
-
-Atualmente estou desenvolvendo um aplicativo de meditação, atuando tanto no backend quanto no mobile, com foco em performance, organização de código e experiência do usuário.
-
-Busco evoluir constantemente em arquitetura de software e construção de aplicações escaláveis, priorizando soluções simples, eficientes e bem pensadas.
-
-<br/>
-
-## 🚀 O que estou construindo
-
-- 🧘 Aplicativo de meditação com experiência imersiva  
-- ⚙️ Backend estruturado com Spring Boot  
-- 📱 Aplicações mobile com React Native  
-
-<br/>
-
-## ⚓ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,java,spring,docker,postgres,mysql,ts" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=160&section=header&text=Building%20Systems&fontColor=64ffda&fontSize=28&animation=fadeIn"/>
 </p>
 
-<br/>
+---
 
-## 🧠 Interesses
+## 🧠 Quem sou eu
 
-- Arquitetura de software  
-- Performance de aplicações  
-- Integração backend + mobile  
+Desenvolvedor full stack focado em transformar ideias em sistemas funcionais, bem estruturados e prontos para escalar.
 
-<br/>
+Atualmente estou construindo um aplicativo de meditação, trabalhando tanto no backend quanto no mobile — com atenção especial à performance, organização e experiência do usuário.
 
-## 🧬 Mentalidade
+Não me limito a fazer funcionar. Busco entender arquitetura, tomar boas decisões técnicas e construir soluções que possam crescer.
 
-<p align="center">
-  <i>"Um bom software não é apenas funcional — ele é pensado para crescer."</i>
-</p>
+---
 
-<br/>
+## ⚙️ O que eu estou fazendo agora
 
-## 🔗 Contato
+```bash
+> building
+🧘 Meditation App (React Native + Backend)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gian-carlos-10715a202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda"/>
-  </a>
-</p>
+> focus
+Arquitetura de software
+Integração backend + mobile
+Performance
 
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=60&section=footer"/>
-</p>
+> learning
+System Design
+Boas práticas de código

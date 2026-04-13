@@ -12,11 +12,13 @@
 
 ## 🌊 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas, escaláveis e com ótima experiência de usuário.
+Desenvolvedor full stack focado em transformar ideias em sistemas funcionais e bem estruturados.
 
-Atualmente desenvolvo projetos como um **app de meditação**, explorando mobile, backend e experiência do usuário.
+Tenho trabalhado no desenvolvimento de um aplicativo de meditação, atuando tanto no backend quanto no mobile, com foco em performance, organização de código e experiência do usuário.
 
-Busco evoluir constantemente, escrevendo código limpo, eficiente e com propósito.
+Busco constantemente evoluir em arquitetura de software e desenvolvimento de aplicações escaláveis, priorizando soluções simples, eficientes e bem construídas.
+
+Acredito que um bom software não é apenas aquele que funciona, mas aquele que é pensado para crescer.
 
 ---
 
@@ -27,13 +29,19 @@ Busco evoluir constantemente, escrevendo código limpo, eficiente e com propósi
 </p>
 
 ---
+## 🚀 O que estou construindo
 
-## 🚀 Projetos
+- 🧘 App de meditação com foco em experiência do usuário
+- ⚙️ Backend estruturado com Spring Boot
+- 📱 Aplicações mobile com React Native
 
-- 🧘 App de Meditação (React Native)
-- ⚙️ Backend com Spring Boot
-- 🌐 APIs REST escaláveis
+---
 
+## 🧠 Interesses atuais
+
+- Arquitetura de software
+- Performance de aplicações
+- Integração entre backend e mobile
 ---
 
 

@@ -28,20 +28,18 @@ Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de sof
 
 ---
 
+---
+
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="40%" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianCarlosDev&theme=radical" width="90%" />
+</p>
 
 ---
 

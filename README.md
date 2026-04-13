@@ -1,47 +1,51 @@
 <div align="center">
-  <img src="dashboard.png" width="100%" alt="Gian Carlos Java Engineer Dashboard" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Gian%20Carlos&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=ffffff" width="45%" />
-  
+  <p align="center">
+    <img src="https://img.shields.io/badge/CORE-JAVA_ENGINEER-00d2ff?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/MOBILE-REACT_NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  </p>
+
   <br/>
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&bg_color=0D1117" width="45%" />
+
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="94%" />
 </div>
 
 ---
 
-### 🖥️ LOG.DETAILED: PROFILE_DATA
+### 🌊 EXPLORAÇÃO SUBMARINA: SOBRE MIM
 
-* 🌍 **BASE:** Brasil 🇧🇷
-* 🚀 **FOCO:** Ecossistema Java & Arquitetura de Software.
-* 📱 **MOBILE:** React Native & TypeScript.
-* 🛠️ **AMBIENTE:** Linux (Ubuntu).
+<details>
+<summary><b>📂 ACESSAR LOGS DO SISTEMA</b></summary>
+<br />
 
----
+Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de software. Atualmente cursando Sistemas de Informação e explorando o desenvolvimento mobile com **React Native**.
 
-### 📂 PROJETOS EM DESTAQUE
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏨 Gerenciador de Hotéis</h4>
-      <p>Backend robusto com Spring Boot, Docker e MySQL.</p>
-      <a href="https://github.com/GianCarlosDev/gerenciador-hoteis"><strong>[ ACESSAR REPOSITÓRIO ]</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Agregador de Investimentos</h4>
-      <p>Análise de mercado e verificação de ativos em tempo real.</p>
-      <a href="https://github.com/GianCarlosDev/agregador-de-investimento"><strong>[ ACESSAR REPOSITÓRIO ]</strong></a>
-    </td>
-  </tr>
-</table>
+* 🚀 **Backend:** Especialista em Java e Spring Boot.
+* 📱 **Mobile:** Criando interfaces fluidas com React Native e TSX.
+* 🐧 **OS:** Ubuntu Linux Enthusiast.
+</details>
 
 ---
 
-### 🤝 CONECTE-SE AO SISTEMA
+### 🛠️ STACK TECNOLÓGICA (MATRIZ)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,mysql,postgres,docker,ubuntu,maven,github&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📬 CONECTAR AO NÓ CENTRAL
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gian-carlos-10715a202" target="_blank">
@@ -50,10 +54,4 @@
   <a href="mailto:giancarlos34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>

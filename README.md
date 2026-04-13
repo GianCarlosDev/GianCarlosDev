@@ -1,46 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=250&section=header&text=Gian%20Carlos&fontSize=70&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20|%20Java%20Specialist&descAlignY=65&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=180&section=header&text=Gian%20Carlos&fontSize=70&fontAlign=45&desc=SYSTEM%20DIAGNOSTICS:%20JAVA%20ENGINEER&descAlignY=65&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GianCarlosDev&label=PROFILE%20VIEWS&color=00d2ff&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=GianCarlosDev&label=SYSTEM%20BOOTS&color=00d2ff&style=flat-square" alt="Views" />
 </p>
 
-## ⚡ Sobre o Desenvolvedor
-
-Sou um entusiasta do **Ecossistema Java**, focado em construir sistemas escaláveis e de alta performance. Atualmente, curso Sistemas de Informação e busco a maestria na ponte entre o **Backend robusto (Java 21)** e o **Frontend dinâmico (React Native)**.
+## 🖥️ LOG.DETAILED: ENGINEER_PROFILE
 
 > "A complexidade é o inimigo da execução. Meu foco é código limpo e arquitetura sustentável."
 
-* 🌍 Baseado no Brasil 🇧🇷
-* 🚀 Dominando **Java 21**, **Spring Boot** e **Microservices**.
-* 🎨 Refinando experiências mobile com **TypeScript** e **React Native**.
-* 🐧 No-nonsense developer rodando **Ubuntu** como daily driver.
+* 🌍 **UPTIME BASE:** Brazil 🇧🇷
+* 🚀 **CORE FOCUS:** Java 21 & Spring Boot Ecosystem.
+* 📱 **MOBILE INTERFACE:** React Native & TypeScript (TSX).
+* 🛠️ **OPERATING ENV:** Ubuntu Linux (Daily Driver).
+* 📚 **CURRENT_TASK:** Masterizando Microservices e Arquitetura de Software.
 
 ---
 
-## 🏗️ Stack de Especialista
+## 🏗️ HARDWARE/SOFTWARE MATRIX
 
-### Backend & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Frontend & Mobile
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-### Infra & Database
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="33%" align="center"><strong>BACKEND CORE</strong></td>
+    <td width="33%" align="center"><strong>FRONTEND / MOBILE</strong></td>
+    <td width="33%" align="center"><strong>INFRA & DATA</strong></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 📈 Performance & Insights
+## 📊 SYSTEM TELEMETRY (REAL-TIME)
 
 <div align="center">
   <table border="0">
@@ -58,30 +67,32 @@ Sou um entusiasta do **Ecossistema Java**, focado em construir sistemas escaláv
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📂 ACTIVE_PROJECT_DOSSIER
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🏨 Hotel Manager Engine</h4>
-      <p>Ecossistema completo de gestão hoteleira com foco em alta disponibilidade.</p>
-      <code>Java 21</code> <code>Spring Boot</code> <code>Docker</code>
+      <p>Ecossistema de gestão hoteleira focado em alta disponibilidade.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/GianCarlosDev/gerenciador-hoteis">⭐ Ver Projeto</a>
+      <a href="https://github.com/GianCarlosDev/gerenciador-hoteis"><strong>[ ACCESS REPOSITORY ]</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Investment Aggregator</h4>
-      <p>Engine de análise financeira e monitoramento de ativos em tempo real.</p>
-      <code>Spring Data JPA</code> <code>MySQL</code> <code>Financial API</code>
+      <h4>🧘 Viva Zen App</h4>
+      <p>Interface moderna de bem-estar com foco em UX e performance.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/GianCarlosDev/agregador-de-investimento">⭐ Ver Projeto</a>
+      <a href="https://github.com/GianCarlosDev"><strong>[ STATUS: IN_DEVELOPMENT ]</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🤝 Let's Build Something Great
+## 🤝 SYSTEM_CONNECT
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gian-carlos-10715a202" target="_blank">

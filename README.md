@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GianCarlosDev/GianCarlosDev/main/assets/dashboard_ocean.png" width="100%" alt="Gian Carlos Java Engineer Dashboard" />
+  <img src="dashboard.png" width="100%" alt="Gian Carlos Java Engineer Dashboard" />
 </div>
 
 <br/>
 
 <details>
   <summary>☕ Sobre Mim (Clique para expandir)</summary>
+
   Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de software. Atualmente cursando Sistemas de Informação e explorando o desenvolvimento mobile com **React Native**.
 
   * 🚀 Focado em **Java**, **Spring Boot** e **Spring Data JPA**.

@@ -28,20 +28,26 @@ Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de sof
 
 ---
 
----
-
-## 📊 Estatísticas e Atividade
+## 📊 Atividade e Competências
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=radical&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianCarlosDev&theme=radical" width="90%" />
-</p>
+<br/>
+
+<div align="center">
+  <p><strong>Linguagens e Ferramentas mais utilizadas:</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,mysql,postgres,docker,ubuntu,py,maven&theme=dark" />
+  </a>
+</div>
 
 ---
+
+
 
 ## 📌 Projetos em Destaque
 

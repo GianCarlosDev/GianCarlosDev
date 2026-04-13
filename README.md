@@ -14,13 +14,13 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas, escaláveis e com ótima experiência de usuário.
 
-Atualmente estou desenvolvendo projetos como um **app de meditação**, explorando integrações entre mobile, backend e experiência do usuário.
+Atualmente desenvolvo projetos como um **app de meditação**, explorando mobile, backend e experiência do usuário.
 
-Tenho como foco evoluir constantemente, dominando tanto o frontend quanto o backend, sempre buscando escrever código limpo, eficiente e com propósito.
+Busco evoluir constantemente, escrevendo código limpo, eficiente e com propósito.
 
 ---
 
-## ⚓ Tecnologias que utilizo
+## ⚓ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,java,spring,docker,postgres,mysql,ts" />
@@ -28,31 +28,21 @@ Tenho como foco evoluir constantemente, dominando tanto o frontend quanto o back
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projetos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
+- 🧘 App de Meditação (React Native)
+- ⚙️ Backend com Spring Boot
+- 🌐 APIs REST escaláveis
 
 ---
 
-## 🚀 Projeto em destaque
 
-### 🧘 App de Meditação
-
-Aplicação mobile desenvolvida com foco em relaxamento e bem-estar, utilizando sons imersivos e uma experiência fluida para o usuário.
-
----
 
 > "Não se trata apenas de escrever código, mas de construir soluções que realmente fazem sentido."
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-carlos-10715a202/">

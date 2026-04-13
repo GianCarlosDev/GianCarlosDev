@@ -1,57 +1,62 @@
 <h1 align="center">Gian Carlos</h1>
 
 <p align="center">
-  <i>Desenvolvedor Full Stack • Criando experiências digitais escaláveis e intuitivas</i>
+  Desenvolvedor Full Stack focado em transformar ideias em aplicações reais, performáticas e bem estruturadas.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=140&section=header&text=Full%20Stack%20Developer&fontColor=64ffda&fontSize=28"/>
 </p>
 
 ---
 
 ## 🌊 Sobre mim
 
-Sou um desenvolvedor full stack focado em criar aplicações limpas, escaláveis e centradas no usuário.  
-Valorizo performance, simplicidade e bom design — construindo soluções tão fluídas quanto o oceano.
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas, escaláveis e com ótima experiência de usuário.
+
+Atualmente estou desenvolvendo projetos como um **app de meditação**, explorando integrações entre mobile, backend e experiência do usuário.
+
+Tenho como foco evoluir constantemente, dominando tanto o frontend quanto o backend, sempre buscando escrever código limpo, eficiente e com propósito.
 
 ---
 
-## ⚓ Tecnologias
+## ⚓ Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,docker,postgres,mysql,ts" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,java,spring,docker,postgres,mysql,ts" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas em tempo real
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=GianCarlosDev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌌 Projeto em destaque
+## 🚀 Projeto em destaque
 
 ### 🧘 App de Meditação
-Aplicação mobile focada em relaxamento e clareza mental através de experiências sonoras imersivas.
+
+Aplicação mobile desenvolvida com foco em relaxamento e bem-estar, utilizando sons imersivos e uma experiência fluida para o usuário.
 
 ---
 
-## 🧬 Filosofia
-
-> "Um bom software é como o oceano — poderoso por dentro, mas simples na superfície."
+> "Não se trata apenas de escrever código, mas de construir soluções que realmente fazem sentido."
 
 ---
 
-## 🔗 Contato
+## 🔗 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-carlos-10715a202/">
@@ -62,6 +67,8 @@ Aplicação mobile focada em relaxamento e clareza mental através de experiênc
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=120&section=footer"/>
 </p>

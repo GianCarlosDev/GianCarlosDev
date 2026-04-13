@@ -32,7 +32,7 @@
 ### 🌊 EXPLORAÇÃO SUBMARINA: LOG DE ENGENHEIRO
 
 <details>
-<summary><b>📂 ACESSAR REGISTROS DO SISTEMA (Sobre Mim)</b></summary>
+<summary><b>Sobre Mim</b></summary>
 <br />
 
 > "A complexidade é o inimigo da execução. Meu foco é código limpo, arquitetura sustentável e UX fluida."

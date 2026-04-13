@@ -37,7 +37,7 @@ Sou apaixonado por transformar lógica em código funcional e construir soluçõ
 
 * 🔗 **[Gerenciador de Hotéis](https://github.com/GianCarlosDev/gerenciador-hoteis)** – Sistema robusto utilizando Spring Boot, Docker e MySQL.
 * 📊 **[Agregador de Investimentos](https://github.com/GianCarlosDev/agregador-de-investimento)** – Ferramenta para análise e verificação de valores de ações.
-* 🧘 **[Viva Zen](https://github.com/GianCarlosDev)** – Projeto em desenvolvimento focado em bem-estar e meditação.
+
 
 ---
 

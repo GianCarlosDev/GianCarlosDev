@@ -1,52 +1,76 @@
-# Olá! 👋 Eu sou o Gian Carlos
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gian%20Carlos&fontSize=80&animation=fadeIn&fontAlignY=35&theme=radical" width="100%" />
+</div>
 
-💻 **Desenvolvedor Back-end | Estudante de Sistemas de Informação**
-
-Sou apaixonado por transformar lógica em código funcional e construir soluções completas, focando sempre em performance e escalabilidade.
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-#### **Back-end**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Mobile & Web**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-#### **Infraestrutura & Dados**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GianCarlosDev&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Views" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+## 👨‍💻 Sobre Mim
+Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de software. Atualmente cursando Sistemas de Informação e explorando o desenvolvimento mobile com **React Native**.
+
+* 🚀 Atualmente aprofundando em **Java 21** e **Spring Data JPA**.
+* 📱 Desenvolvendo interfaces modernas com **TypeScript** e **React Native**.
+* 🐧 Entusiasta de **Linux (Ubuntu)** para produtividade e desenvolvimento.
+* 🛠️ Experiência com automação de processos e gestão de dados.
+
+---
+
+## 🛠️ Stack Tecnológica
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=radical" alt="Gian's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical" alt="Top Langs" height="170px" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,mysql,postgres,docker,ubuntu,py,maven,github,idea" />
+  </a>
 </div>
 
 ---
 
-### 💡 Projetos em Destaque
+## 📊 Estatísticas e Atividade
 
-* 🔗 **[Gerenciador de Hotéis](https://github.com/GianCarlosDev/gerenciador-hoteis)** – Sistema robusto utilizando Spring Boot, Docker e MySQL.
-* 📊 **[Agregador de Investimentos](https://github.com/GianCarlosDev/agregador-de-investimento)** – Ferramenta para análise e verificação de valores de ações.
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📬 Onde me encontrar
+## 📌 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gian-carlos-10715a202)
-📧 [giancarlos34@gmail.com](mailto:giancarlos34@gmail.com)
+<div align="center">
+
+| 🏨 Gerenciador de Hotéis | 📊 Agregador de Investimentos | 🧘 Viva Zen |
+| :--- | :--- | :--- |
+| Backend robusto com Spring Boot, Docker e MySQL. | Análise de mercado e verificação de ativos. | App de bem-estar com foco em UX e performance. |
+| [Ver Repositório](https://github.com/GianCarlosDev/gerenciador-hoteis) | [Ver Repositório](https://github.com/GianCarlosDev/agregador-de-investimento) | [Em Breve](https://github.com/GianCarlosDev) |
+
+</div>
 
 ---
 
-🧠 *Sempre em busca de aprender novas arquiteturas e metodologias para criar softwares que impactam pessoas!* 🚀
+## 📬 Conecte-se Comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-carlos-10715a202)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giancarlos34@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
 

@@ -1,49 +1,56 @@
 <div align="center">
   <img src="dashboard.png" width="100%" alt="Gian Carlos Java Engineer Dashboard" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=ffffff" width="45%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianCarlosDev&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="94%" />
 </div>
 
-<br/>
+---
 
-<details>
-  <summary>☕ Sobre Mim (Clique para expandir)</summary>
+### 🖥️ LOG.DETAILED: PROFILE_DATA
 
-  Desenvolvedor focado no **Ecossistema Java** e apaixonado por arquitetura de software. Atualmente cursando Sistemas de Informação e explorando o desenvolvimento mobile com **React Native**.
+* 🌍 **BASE:** Brasil 🇧🇷
+* 🚀 **FOCO:** Ecossistema Java & Arquitetura de Software.
+* 📱 **MOBILE:** React Native & TypeScript.
+* 🛠️ **AMBIENTE:** Linux (Ubuntu).
 
-  * 🚀 Focado em **Java**, **Spring Boot** e **Spring Data JPA**.
-  * 📱 Interfaces modernas com **TypeScript** e **React Native**.
-  * 🐧 Usuário de **Linux (Ubuntu)** para produtividade.
-  * 🛠️ Experiência em automação e arquitetura de sistemas.
-</details>
+---
 
-<details>
-  <summary>🚀 Projetos em Destaque</summary>
-  <ul>
-    <li>
-      🏨 <strong>Gerenciador de Hotéis</strong> (Spring Boot, Docker, MySQL) -
-      <a href="https://github.com/GianCarlosDev/gerenciador-hoteis">Repositório</a>
-    </li>
-    <li>
-      📊 <strong>Agregador de Investimentos</strong> (Spring Boot, Análise Financeira) -
-      <a href="https://github.com/GianCarlosDev/agregador-de-investimento">Repositório</a>
-    </li>
-    <li>
-      🧘 <strong>Viva Zen</strong> (Mobile React Native) -
-      <a href="https://github.com/GianCarlosDev">Em Breve</a>
-    </li>
-  </ul>
-</details>
+### 📂 PROJETOS EM DESTAQUE
 
-<details>
-  <summary>📬 Conecte-se</summary>
-  <div align="left">
-    <a href="https://www.linkedin.com/in/gian-carlos-10715a202" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:giancarlos34@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </div>
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏨 Gerenciador de Hotéis</h4>
+      <p>Backend robusto com Spring Boot, Docker e MySQL.</p>
+      <a href="https://github.com/GianCarlosDev/gerenciador-hoteis"><strong>[ ACESSAR REPOSITÓRIO ]</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Agregador de Investimentos</h4>
+      <p>Análise de mercado e verificação de ativos em tempo real.</p>
+      <a href="https://github.com/GianCarlosDev/agregador-de-investimento"><strong>[ ACESSAR REPOSITÓRIO ]</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 CONECTE-SE AO SISTEMA
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gian-carlos-10715a202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:giancarlos34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <br />
 

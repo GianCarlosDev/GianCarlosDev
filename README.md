@@ -1,7 +1,7 @@
 <h1 align="center">Gian Carlos</h1>
 
 <p align="center">
-  <i>Full Stack Developer • Building scalable and intuitive digital experiences</i>
+  <i>Desenvolvedor Full Stack • Criando experiências digitais escaláveis e intuitivas</i>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-## 🌊 About Me
+## 🌊 Sobre mim
 
-I’m a full stack developer focused on creating clean, scalable and user-centered applications.  
-I value performance, simplicity and good design — building solutions that feel as smooth as the ocean.
+Sou um desenvolvedor full stack focado em criar aplicações limpas, escaláveis e centradas no usuário.  
+Valorizo performance, simplicidade e bom design — construindo soluções tão fluídas quanto o oceano.
 
 ---
 
-## ⚓ Tech Stack
+## ⚓ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,docker,postgres,mysql,ts" />
@@ -25,7 +25,7 @@ I value performance, simplicity and good design — building solutions that feel
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -38,27 +38,27 @@ I value performance, simplicity and good design — building solutions that feel
 
 ---
 
-## 🌌 Featured Project
+## 🌌 Projeto em destaque
 
-### 🧘 Meditation App
-A mobile application focused on relaxation and mental clarity through immersive sound experiences.
-
----
-
-## 🧬 Philosophy
-
-> "Great software is like the ocean — powerful underneath, but simple on the surface."
+### 🧘 App de Meditação
+Aplicação mobile focada em relaxamento e clareza mental através de experiências sonoras imersivas.
 
 ---
 
-## 🔗 Connect
+## 🧬 Filosofia
+
+> "Um bom software é como o oceano — poderoso por dentro, mas simples na superfície."
+
+---
+
+## 🔗 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-link">
-    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/gian-carlos-10715a202/?style=for-the-badge&logo=linkedin&logoColor=64ffda"/>
+  <a href="https://www.linkedin.com/in/gian-carlos-10715a202/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda"/>
   </a>
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?style=for-the-badge&logo=gmail&logoColor=64ffda"/>
+    <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda"/>
   </a>
 </p>
 

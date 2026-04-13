@@ -1,26 +1,33 @@
 <h1 align="center">Gian Carlos</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em transformar ideias em aplicações reais, performáticas e bem estruturadas.
+  <strong>Full Stack Developer</strong><br/>
+  Construindo aplicações modernas, escaláveis e com propósito
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=140&section=header&text=Full%20Stack%20Developer&fontColor=64ffda&fontSize=28"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=80&section=header"/>
 </p>
 
----
+<br/>
 
 ## 🌊 Sobre mim
 
 Desenvolvedor full stack focado em transformar ideias em sistemas funcionais e bem estruturados.
 
-Tenho trabalhado no desenvolvimento de um aplicativo de meditação, atuando tanto no backend quanto no mobile, com foco em performance, organização de código e experiência do usuário.
+Atualmente estou desenvolvendo um aplicativo de meditação, atuando tanto no backend quanto no mobile, com foco em performance, organização de código e experiência do usuário.
 
-Busco constantemente evoluir em arquitetura de software e desenvolvimento de aplicações escaláveis, priorizando soluções simples, eficientes e bem construídas.
+Busco evoluir constantemente em arquitetura de software e construção de aplicações escaláveis, priorizando soluções simples, eficientes e bem pensadas.
 
-Acredito que um bom software não é apenas aquele que funciona, mas aquele que é pensado para crescer.
+<br/>
 
----
+## 🚀 O que estou construindo
+
+- 🧘 Aplicativo de meditação com experiência imersiva  
+- ⚙️ Backend estruturado com Spring Boot  
+- 📱 Aplicações mobile com React Native  
+
+<br/>
 
 ## ⚓ Tecnologias
 
@@ -28,27 +35,23 @@ Acredito que um bom software não é apenas aquele que funciona, mas aquele que 
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,java,spring,docker,postgres,mysql,ts" />
 </p>
 
----
-## 🚀 O que estou construindo
+<br/>
 
-- 🧘 App de meditação com foco em experiência do usuário
-- ⚙️ Backend estruturado com Spring Boot
-- 📱 Aplicações mobile com React Native
+## 🧠 Interesses
 
----
+- Arquitetura de software  
+- Performance de aplicações  
+- Integração backend + mobile  
 
-## 🧠 Interesses atuais
+<br/>
 
-- Arquitetura de software
-- Performance de aplicações
-- Integração entre backend e mobile
----
+## 🧬 Mentalidade
 
+<p align="center">
+  <i>"Um bom software não é apenas funcional — ele é pensado para crescer."</i>
+</p>
 
-
-> "Não se trata apenas de escrever código, mas de construir soluções que realmente fazem sentido."
-
----
+<br/>
 
 ## 🔗 Contato
 
@@ -56,13 +59,10 @@ Acredito que um bom software não é apenas aquele que funciona, mas aquele que 
   <a href="https://www.linkedin.com/in/gian-carlos-10715a202/">
     <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda"/>
   </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda"/>
-  </a>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=60&section=footer"/>
 </p>

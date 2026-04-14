@@ -152,7 +152,7 @@ Estudante de Sistemas de Informação
 </p>
 
 <p align="center"> 
-  <img src="LINK_DO_SEU_GIF_AQUI" width="200"> 
+  <img src="2d-mario-running.gif" width="200"> 
 </p>
 <p align="center"> <b>🏁 COURSE CLEAR!</b><br> <b>CONTINUE ▶</b> 
   </p> ``

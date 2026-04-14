@@ -121,19 +121,15 @@ Experiência imersiva com sons relaxantes
 
 ---
   
-## 📊 WORLD 4 — PLAYER STATS (DADOS)
-
-<p align="center">
-  🎮 Estatísticas do jogador
-</p>
+## 📊 WORLD 4 PLAYER STATS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-</p>
+</p>p>
 
 <p align="center">
 

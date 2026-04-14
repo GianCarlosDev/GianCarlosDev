@@ -121,7 +121,7 @@ Experiência imersiva com sons relaxantes
 
 ---
   
-## 📊 WORLD 4 — PLAYER STATS
+## 📊 WORLD 4 — PLAYER STATS (DADOS)
 
 <p align="center">
   🎮 Estatísticas do jogador

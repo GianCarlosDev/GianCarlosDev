@@ -61,7 +61,7 @@ Em constante evolução...
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,react,reactnative,java,spring,git,mysql,postgres,linux,docker,python" />
+<img src="https://skillicons.dev/icons?i=java,ts,react,spring,git,mysql,postgres,linux,docker,python" />
 
 </p>
 

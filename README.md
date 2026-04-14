@@ -13,15 +13,20 @@
 ## 🎮 PLAYER STATUS
 
 <p align="center">
-👨 Player: Gian Carlos
-🎓 Classe: Sistemas de Informação
-🧠 Especialidade: Backend Developer
-⚡ Level: 99
-
-❤️ HP: ██████████
-🧠 INT: ██████████
-🔥 XP: ███████████
-
+┌───────────────────────────────┐
+│ 🎮 PLAYER: Gian Carlos │
+├───────────────────────────────┤
+│ 🎓 Classe: Sistemas de Info │
+│ 🧠 Build: Backend Developer │
+│ 🌎 Região: Brasil │
+├───────────────────────────────┤
+│ ⚡ Level: 99 │
+│ 🔥 XP: ███████░░░ │
+│ ❤️ HP: ██████████ │
+├───────────────────────────────┤
+│ 🛠️ Main Stack: │
+│ Java • Spring • MySQL • React Native │
+└───────────────────────────────┘
 </p>
 
 ---

@@ -1,40 +1,158 @@
-<h1 align="center">Gian Carlos</h1>
+<h1 align="center">🍄 SUPER GIAN BROS 🍄</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong>
+  <img src="super-gian-bros.png" width="100%">
 </p>
 
 <p align="center">
-  Construindo aplicações reais, escaláveis e com foco em experiência do usuário
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=160&section=header&text=Building%20Systems&fontColor=64ffda&fontSize=28&animation=fadeIn"/>
+  <b>▶ PRESS START</b>
 </p>
 
 ---
 
-## 🧠 Quem sou eu
+## 🎮 PLAYER STATUS
 
-Desenvolvedor full stack focado em transformar ideias em sistemas funcionais, bem estruturados e prontos para escalar.
+<p align="center">
+👨 Player: Gian Carlos
+🎓 Classe: Sistemas de Informação
+🧠 Especialidade: Backend Developer
+⚡ Level: 99
 
-Atualmente estou construindo um aplicativo de meditação, trabalhando tanto no backend quanto no mobile — com atenção especial à performance, organização e experiência do usuário.
+❤️ HP: ██████████
+🧠 INT: ██████████
+🔥 XP: ███████████
 
-Não me limito a fazer funcionar. Busco entender arquitetura, tomar boas decisões técnicas e construir soluções que possam crescer.
+</p>
 
 ---
 
-## ⚙️ O que eu estou fazendo agora
+## 🌍 WORLD 1 — SOBRE MIM
 
-```bash
-> building
-🧘 Meditation App (React Native + Backend)
+<details>
+<summary>▶ Clique para iniciar missão</summary>
 
-> focus
-Arquitetura de software
-Integração backend + mobile
-Performance
+txt
+Carregando dados do jogador...
 
-> learning
-System Design
-Boas práticas de código
+👨 Nome: Gian Carlos
+🎓 Estudante de Sistemas de Informação
+🧠 Backend Developer
+
+🏆 Certificações:
+- Java
+- Spring Boot
+- MySQL
+
+🎯 Missão atual:
+Evoluir como desenvolvedor backend e construir
+aplicações robustas, escaláveis e bem estruturadas.
+
+🔥 Status:
+Em constante evolução...
+</details>
+
+---
+
+## 🧰 WORLD 2 — POWER-UPS (SKILLS)
+
+<p align="center">
+  🍄 Power Collected:
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,ts,react,reactnative,java,spring,git,mysql,postgres,linux,docker,python" />
+
+</p>
+
+---
+
+## 👾 WORLD 3 — BOSS FIGHTS (PROJETO)
+🧘 Viva Zen
+🚧 Status: EM DESENVOLVIMENTO
+
+Aplicativo focado em meditação e bem-estar
+
+🎯 Objetivo:
+Ajudar usuários a relaxar, reduzir ansiedade e melhorar o foco
+
+🧠 Stack:
+- React Native
+- Expo
+- Áudio
+
+🔥 Diferencial:
+Experiência imersiva com sons relaxantes
+
+⚡ Próximo nível:
+- Finalizar funcionalidades principais
+- Melhorar UX
+- Publicação inicial
+
+---
+  
+## 📊 WORLD 4 — PLAYER STATS
+
+<p align="center">
+  🎮 Estatísticas do jogador
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GianCarlosDev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianCarlosDev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=GianCarlosDev&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 WORLD 5 — ACHIEVEMENTS
+
+txt
+🎯 Foco profissional:
+Desenvolvimento backend com Java e Spring Boot,
+construindo APIs seguras, escaláveis e bem estruturadas
+
+📚 Formação:
+Estudante de Sistemas de Informação
+
+🏆 Certificações:
+- Java
+- Spring Boot
+- MySQL
+
+🚀 Em evolução:
+- Desenvolvimento de aplicações mobile (React Native)
+- Integração entre frontend e backend
+- Boas práticas de arquitetura e código limpo
+
+⚡ Diferenciais:
+- Aprendizado rápido
+- Organização e disciplina
+- Foco em evolução contínua
+
+  ---
+
+## 📡 FINAL STAGE — CONTATO
+<p align="center">
+
+📡 LinkedIn: https://linkedin.com/in/gian-carlos-10715a202
+
+📡 GitHub: https://github.com/GianCarlosDev
+
+📡 Email: gcmendoncasilva@email.com
+
+</p>
+
+<p align="center"> 
+  <img src="LINK_DO_SEU_GIF_AQUI" width="200"> 
+</p>
+<p align="center"> <b>🏁 COURSE CLEAR!</b><br> <b>CONTINUE ▶</b> 
+  </p> ``

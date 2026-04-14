@@ -62,7 +62,6 @@
 <details>
 <summary>▶ Clique para iniciar missão</summary>
 
-txt
 Carregando dados do jogador...
 
 👨 Nome: Gian Carlos
@@ -146,7 +145,6 @@ Experiência imersiva com sons relaxantes
 
 ## 🏆 WORLD 5 — ACHIEVEMENTS
 
-txt
 🎯 Foco profissional:
 Desenvolvimento backend com Java e Spring Boot,
 construindo APIs seguras, escaláveis e bem estruturadas
